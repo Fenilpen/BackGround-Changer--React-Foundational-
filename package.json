@@ -1,4 +1,4 @@
-{
+\* {
   "name": "megablog",
   "private": true,
   "version": "0.0.0",
@@ -24,3 +24,4 @@
     "vite": "^4.4.5"
   }
 }
+*\
